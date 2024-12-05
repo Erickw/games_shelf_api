@@ -6,7 +6,7 @@ Esta é uma API RESTful para gerenciar usuários, listas e avaliações de jogos
 
 ## **Base URL**
 ```
-http://localhost:3000
+https://games-shelf-api.fly.dev/users
 ```
 
 ---
